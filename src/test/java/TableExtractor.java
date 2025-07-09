@@ -55,4 +55,9 @@ public class TableExtractor {
 
         System.out.println("Table scraped and saved successfully.");
     }
+    @AfterAll
+    public void teardown() throws InterruptedException {
+        Thread.sleep(2000);
+        driver.quit();
+    }
 }
