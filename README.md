@@ -66,11 +66,7 @@ This test focuses on **scraping a live dynamic table** from the Dhaka Stock Exch
 | File I/O (Java)     | Writing scraped data to `src/test/resources/share_prices.txt` using `BufferedWriter`|
 
 ---
-## 📊 Test Reports
-| Test Name | Report Screenshot |
-|-----------|-------------------|
-| WebFormAutomationTest |![image](https://github.com/user-attachments/assets/1239d9a2-0191-495a-acec-82a51c2097b7)|
-| TableExtractor |![image](https://github.com/user-attachments/assets/fdedb5ff-3d8f-40e1-964e-1385f8999700)|
+
 
 ---
 
